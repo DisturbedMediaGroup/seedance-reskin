@@ -1,0 +1,93 @@
+— REFERENCE DEFINITIONS —
+
+#Video1: Blocking render — one smooth yellow ellipsoid alone on a flat black void,
+no floor, no shadow, no other object. The ellipsoid is a whole fresh LEMON — NOT an egg, NOT a
+stone, NOT a balloon. THE FLAT BLACK BACKGROUND is a PLACEHOLDER: fill it in every frame with
+the lemon-and-water vortex described below — never leave it black, never render it as a night
+sky or a dark studio. The six thin dark lines crossing the body at 4.3s are CUT LINES — NOT
+stripes, NOT paint, NOT a wasp marking; render them as clean wet slicing cuts opening into
+juicy lemon flesh. MANDATORY MOTION SOURCE — replicate every camera move,
+angle, framing, scale change and object trajectory from this video one-to-one, frame-accurate.
+The hero lemon's position, rotation, scale and the exact moment and geometry of its slicing
+come only from here. Do NOT copy its flat matte placeholder material — the surface comes from
+#Image1. Reference.
+
+#Image1: the LEMON — peel texture, colour, sheen and cut-flesh look, for the hero and every
+lemon in the vortex. Appearance only; pose, lighting and background not inherited. Reference.
+
+— TECHNICAL BLOCK —
+
+Photoreal high-end food commercial — macro product photography, wet, cold, hyper-detailed.
+16:9. 10s. One continuous shot, zero cuts. SFX only, no music. 8K, crisp speculars, detailed
+fluid simulation, refraction and caustics in every droplet.
+
+FULL LENS REALISM: physically accurate macro camera — shallow depth of field, hero on the sharp
+focus plane, vortex softly defocused behind it, natural motion blur, faint chromatic aberration
+at the edges, bloom on speculars, fine grain.
+
+STRICT MOTION LOCK: reproduce the camera motion, framing, scale ramp and object blocking of
+#Video1 EXACTLY, frame by frame — same push-in, rotation, slice timing, separation drift and
+retreat. OBJECT LOCK: the hero lemon's trajectory matches it one-to-one; do not add, remove,
+re-time or re-path it. Do not invent camera moves, do not reframe, do not cut.
+
+TIE-BREAKER: if any text here appears to disagree with #Video1 on camera, framing,
+direction, motion, timing or object placement, #Video1 WINS.
+
+The vortex is the ONLY element added to #Video1, and it is locked to the hero:
+it scales and recedes in sympathy with the hero's own scale, never independently. NON-IP.
+
+— PROMPT —
+
+Recreate #Video1 one-to-one as a photoreal macro lemon commercial. One unbroken shot, zero
+cuts, 10 seconds.
+
+THE WORLD — behind the hero, filling the frame from the first frame to the last, a slow
+CIRCULAR VORTEX of whole fresh #Image1 lemons and clear water seen from directly above: a wide
+funnel turning steadily CLOCKWISE around a dark centre, receding into depth, softly defocused,
+backlit so the water glows and the lemons rim-light. No black background in any frame. The
+vortex is ALIVE throughout — lemons tumbling slowly as they orbit, water sheeting between them,
+spray lifting off the inner wall; nothing in it is ever frozen. It is locked to the hero: as
+the hero grows the vortex grows with it, its lemons sliding out past the frame edges; as the
+hero shrinks away it contracts back. It never speeds up, never drifts on its own, never cuts,
+and turns in ONE direction for the whole 10 seconds.
+
+0.0-4.3 — the camera pushes in on ONE whole #Image1 lemon suspended in the air — exactly one,
+never a second — tiny at first and growing to fill the frame, its dimpled waxy peel beaded with
+cold condensation, turning slowly through ninety degrees, drifting down and left exactly as in
+#Video1; behind it the vortex swells with it.
+
+4.3-4.6 — the lemon slices ITSELF: SIX clean wet cuts open across the peel simultaneously, as
+if by invisible blades — six and only six, never a seventh — EXACTLY ONCE in the whole film.
+No knife, blade, hand or tool is ever visible in any frame. In that instant a BURST OF JUICE
+AND WATER DROPLETS explodes radially out of every cut line at once, a high-speed spray thrown
+into the backlight, each droplet refracting. The lemon stays whole for this beat — only the
+cuts and the spray. Forward-only: once the cuts exist they never close and the lemon is never
+whole again.
+
+4.6-6.5 — the camera pulls back and rises. The SEVEN pieces — five slices and two end caps,
+seven and never more — separate and twist apart into a spiral, each rotated against its
+neighbour so the lemon corkscrews open into an S-curve, exactly on the paths of #Video1, cut
+faces turning toward the lens: glistening translucent flesh, segment walls, pulp, juice
+stringing between them, droplets trailing off every edge. The pieces only ever move APART —
+they never re-join.
+
+6.5-9.0 — the camera keeps retreating and the spiral falls away toward the lower left, the gaps
+widening, slices tumbling slowly, juice threads hanging behind them, on the exact paths of
+#Video1. As the hero recedes, the vortex pulls back with it and comes forward into sharpness,
+taking over the frame.
+
+9.0-10.2 — the last slices shrink into the vortex and are gone; once gone they never return.
+The camera settles. The frame is now entirely the vortex, turning slowly, in full focus —
+holding, still turning, still alive, to the final frame. Never empty, never black.
+
+HOLD FOR THE FULL TIMELINE
+#Video1 camera path 1:1 — where text and video disagree, the video wins.
+ONE hero lemon, ONE slicing event, SIX cuts, SEVEN pieces — never more of any.
+No knife, blade, hand or tool is ever visible; the lemon slices itself.
+Forward only: cuts never close, pieces never re-join, slices never return.
+The vortex is in every frame, one direction, always alive, never black.
+Zero cuts; one continuous take. No text, no logos, no watermarks.
+
+SFX only: rising whoosh on the push-in over a steady water swirl, six crisp wet slicing sounds
+landing as one sharp cut, a bright juice-burst spatter, juicy separation slides with ticking
+droplets, the swirl rising as the camera retreats into a calm water churn.
