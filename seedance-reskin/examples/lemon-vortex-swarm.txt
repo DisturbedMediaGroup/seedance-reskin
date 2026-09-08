@@ -1,0 +1,113 @@
+— REFERENCE DEFINITIONS —
+
+#Video1: Blocking render, 13.7s, one continuous shot — a yellow ellipsoid alone on a flat black
+void for the first six seconds, then magenta shapes entering behind it. OBJECT MAP: the YELLOW
+ellipsoid is the hero LEMON, whole and fresh; every MAGENTA SPHERE is another whole lemon;
+every MAGENTA DISC is a lemon SLICE seen edge-on. Magenta is a blocking marker only — all of
+them render as ripe yellow lemons and pale yellow slices, never magenta, pink or red. The black
+background is KEPT EXACTLY AS IT IS — an empty void, not a placeholder to fill and not a
+surface to light. The seven thin lines crossing the hero at 6.6s are CUT LINES — NOT stripes, NOT
+paint; render them as clean wet cuts into juicy lemon flesh. MANDATORY MOTION SOURCE —
+replicate every camera move, angle, framing, scale change and object trajectory one-to-one,
+frame-accurate; every lemon and slice exists only where a blocking shape exists. Its flat matte
+material is a placeholder — surfaces come from #Image1. Reference.
+
+#Image1: the LEMON — peel texture, colour and cut-flesh look, for the hero and for every lemon
+and slice behind it. Appearance only; its pose, lighting and background are NOT inherited.
+Reference.
+
+— TECHNICAL BLOCK —
+
+Photoreal high-end food commercial — macro product photography, cool and crisp, hyper-detailed,
+with accurate refraction and caustics in every droplet. 13.7s, one continuous shot. SFX only,
+no music. Naturalistic and restrained — NOT a glamour or jewellery look.
+
+FRAMING — match the aspect ratio and framing of #Video1 exactly: the hero occupies the same
+portion of the frame, at the same position, in every corresponding frame. Do not crop, pad,
+re-frame or zoom. If the output aspect differs, fit the source without cropping — never cut the
+top or bottom, since the motion runs vertically.
+
+WATER BUDGET — small, contained splashes, not a wall of water. Juice bursts and droplet
+scatters ARE wanted, but each stays SMALL: a splash reaches at most about ONE LEMON-WIDTH from
+the fruit it came off, then breaks into separate droplets that slow and drift. Water is always
+readable as individual beads and short ribbons, never as a solid mass. NO water crossing the
+whole frame, NO sheets or curtains, NO fog or atmospheric mist, NO water hitting the lens, NO
+frame-filling wall of liquid.
+
+BACKGROUND — ABSOLUTE BLACK VOID. NO background surface: no backdrop, no seamless, no studio
+wall, no floor, no set. Behind the fruit is EMPTY SPACE — pure #000000, uniform, filling every
+pixel not occupied by fruit or liquid. It NEVER lightens, greys or gains a gradient. Frame 0.0s
+and frame 13.6s have the same background value.
+
+LIGHTING — soft, matte, restrained. A broad diffuse key from the front-left and a gentle top
+light, so the peel reads as dimpled matte citrus skin, never polished glass. Highlights stay
+SMALL, TIGHT and CONTAINED WITHIN each silhouette. NO rim light, NO backlight, NO kicker.
+BANNED OPTICS — none of these may appear anywhere: bloom, glow, halation, lens flare,
+starburst, light rays, diffusion filter, soft-focus haze, sparkle, glints, jewellery sheen.
+Nothing radiates outward from a highlight; the pixel immediately outside any silhouette has
+exactly the same value as the pixel in the far corner: pure #000000.
+
+LENS: physically accurate macro camera — shallow depth of field with the hero on the sharp
+focus plane and the fruit behind it progressively softer, natural motion blur, faint chromatic
+aberration, fine grain.
+
+STRICT MOTION LOCK: reproduce the camera motion, scale ramp and object blocking of #Video1
+EXACTLY, frame by frame. Every trajectory matches one-to-one; do not add, remove, re-time or
+re-path any object. Do not invent camera moves, do not cut. TIE-BREAKER: if any text here
+appears to disagree with #Video1 on camera, framing, motion, timing or object placement,
+#Video1 WINS. NOTHING is added beyond the lemons, the slices and their liquid. NON-IP.
+
+— PROMPT —
+
+Recreate #Video1 one-to-one as a photoreal macro lemon commercial in an absolute black void.
+One unbroken shot, 13.7 seconds. Everything floats in empty space — no floor, no table, no
+hand, nothing but darkness behind.
+
+0.0-6.5 — the camera pushes in on ONE whole #Image1 lemon suspended in the void — exactly one,
+nothing else in frame for this whole stretch — a distant speck at first, growing steadily to
+fill the frame, its dimpled peel matte and beaded with cold condensation, turning slowly
+through about ninety degrees, drifting up and left exactly as in #Video1. The void stays as
+black at the end of this move as at its start.
+
+6.5-6.9 — the hero slices ITSELF: SEVEN clean wet cuts open across the peel simultaneously, as
+if by invisible blades — seven and only seven, never an eighth — EXACTLY ONCE in the whole
+film. No knife, blade or hand is ever visible. Each cut throws a SMALL juice burst — seven
+little bursts, one per cut, breaking into separate flying beads and short ribbons that carry
+about a lemon-width out and then slow and drift. Punchy and wet, but contained: no sheet of
+water, no frame-crossing spray, no mist, nothing reaching the frame edges. Forward-only: the
+cuts never close and the hero is never whole again.
+
+6.9-8.5 — the EIGHT pieces — six slices and two end caps, eight and never more — twist apart
+into a spiral, each rotated against its neighbour so the hero corkscrews open into an S-curve,
+cut faces turning toward the lens: translucent flesh, pulp, a few wet strands. In the same beat
+the SWARM BEGINS: whole lemons and lemon slices swing in from behind the hero on a wide circular
+path, orbiting the centre of frame like a slow vortex seen from the side — each exactly on its
+blocking trajectory, a whole ripe lemon where a magenta sphere is, a pale yellow slice where a
+magenta disc is, cut faces catching the key light.
+
+8.5-13.0 — the camera retreats and rises. The hero's spiral falls away toward the lower left
+while the swarm keeps arriving and spreading toward the frame edges — more lemons, more slices,
+all turning on the same circular drift, tumbling as they travel, near ones sharp and far ones
+softening into bokeh; nothing collides or passes through anything else. By 11.0s the hero is
+gone and the frame belongs entirely to the drifting fruit, still orbiting outward and thinning
+as it scatters — exactly on the paths of #Video1.
+
+13.0-13.7 — the last pieces leave frame and what remains is the same absolute black that was
+there in frame one — an empty void, not a fade to black.
+
+HOLD FOR THE FULL TIMELINE
+#Video1 camera path, aspect and framing 1:1 — where text and video disagree, the video wins.
+Magenta is a marker, never a colour: every magenta shape renders as a yellow lemon or a pale
+yellow slice. Nothing in this film is pink, magenta or red.
+ONE hero, ONE slicing event, SEVEN cuts, EIGHT pieces — no knife or hand visible; cuts never
+close, pieces never re-join.
+Lemons and slices exist ONLY where blocking shapes exist, on their exact paths.
+Pure #000000 behind everything, including one pixel outside any silhouette. No bloom, glow,
+flare or sparkle.
+Splashes stay SMALL — about a lemon-width of reach, always readable as separate beads and
+ribbons; no sheets, no frame-crossing spray, no mist, no water on the lens.
+One take. No text, no logos, no watermarks.
+
+SFX only: a low airy whoosh on the push-in, seven wet slicing sounds landing as one sharp cut with
+a bright juicy spatter under it, scattered droplet ticks, juicy separation slides, then a soft
+airy swell as the fruit sweeps past the lens, thinning to silence.
