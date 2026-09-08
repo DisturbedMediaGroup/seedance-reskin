@@ -1,0 +1,98 @@
+— REFERENCE DEFINITIONS —
+
+#Video1: Blocking render — one smooth yellow ellipsoid alone on a flat black void, no floor,
+no shadow, no other object. The ellipsoid is a whole fresh LEMON — NOT an egg, NOT a stone,
+NOT a balloon. Its black background is KEPT EXACTLY AS IT IS — an empty void, not a placeholder
+to fill and not a surface to light. The six thin dark lines crossing the body at 4.3s are CUT
+LINES — NOT stripes, NOT paint, NOT a wasp marking; render them as clean wet cuts into juicy
+lemon flesh. MANDATORY MOTION SOURCE — replicate every camera move, angle, framing, scale
+change and object trajectory one-to-one, frame-accurate. Its flat matte material is a
+placeholder — the surface comes from #Image1. Reference.
+
+#Image1: the LEMON — peel texture, colour and cut-flesh look. Appearance only; its pose,
+lighting and background are NOT inherited. Reference.
+
+— TECHNICAL BLOCK —
+
+Photoreal high-end food commercial — macro product photography, cool and crisp, hyper-detailed.
+10s. One continuous shot, zero cuts. SFX only, no music. 8K, accurate refraction in the few
+droplets present. Naturalistic and restrained — NOT a glamour or jewellery look, NOT a
+liquid-simulation showreel.
+
+FRAMING — match the aspect ratio and framing of #Video1 exactly: the lemon occupies the same
+portion of the frame, at the same position, in every corresponding frame. Do not crop, pad,
+re-frame or zoom. If the output aspect differs, fit the source without cropping — never cut the
+top or bottom, since the lemon's motion runs vertically.
+
+WATER BUDGET — this film is nearly dry. Total liquid on screen: a thin sheen of condensation on
+the peel, juice on the cut faces, and at most a couple of dozen individual droplets. NO
+splashes, sprays, mist, fog, water sheets or streams; no water fills or crosses the frame.
+
+BACKGROUND — ABSOLUTE BLACK VOID. NO background surface: no backdrop, no seamless, no studio
+wall, no floor, no set. Behind the lemon is EMPTY SPACE — pure #000000, uniform, filling every
+pixel not occupied by the lemon or its liquid. It NEVER lightens, greys or gains a gradient.
+Frame 0.0s and frame 9.9s have the same background value.
+
+LIGHTING — soft, matte, restrained. A broad diffuse key from the front-left and a gentle top
+light, so the peel reads as dimpled matte citrus skin, never polished glass. Highlights stay
+SMALL, TIGHT and CONTAINED WITHIN the silhouette — a highlight ends where the object ends. NO
+rim light, NO backlight, NO kicker behind it.
+
+BANNED OPTICS — none of these may appear anywhere: bloom, glow, halation, lens flare,
+starburst, light rays, diffusion filter, soft-focus haze, sparkle, glints, diamond or jewellery
+sheen. Nothing radiates outward from a highlight. The pixel immediately outside the lemon's
+silhouette has exactly the same value as the pixel in the far corner: pure #000000.
+
+LENS: physically accurate macro camera — shallow depth of field on the lemon, natural motion
+blur, faint chromatic aberration, fine grain.
+
+STRICT MOTION LOCK: reproduce the camera motion, scale ramp and object blocking of #Video1
+EXACTLY, frame by frame. The lemon's trajectory matches it one-to-one; do not add, remove,
+re-time or re-path it. Do not invent camera moves, do not cut.
+
+TIE-BREAKER: if any text here appears to disagree with #Video1 on camera, framing, motion,
+timing or object placement, #Video1 WINS. NOTHING is added — no environment, no props, no extra
+objects; only the lemon, its pieces and its liquid exist in frame. NON-IP.
+
+— PROMPT —
+
+Recreate #Video1 one-to-one as a photoreal macro lemon commercial in an absolute black void.
+One unbroken shot, 10 seconds. The lemon floats in empty space — no floor, no table, no hand,
+nothing behind it.
+
+0.0-4.3 — the camera pushes in on ONE whole #Image1 lemon suspended in the void — exactly one,
+never a second — tiny at first, growing to fill the frame, its dimpled peel matte and beaded
+with cold condensation, turning slowly through ninety degrees, drifting down and left exactly
+as in #Video1. The void stays as black at the end of this move as at its start.
+
+4.3-4.6 — the lemon slices ITSELF: SIX clean wet cuts open across the peel simultaneously, as
+if by invisible blades — six and only six, never a seventh — EXACTLY ONCE in the whole film.
+No knife, blade or hand is ever visible. As the cuts open, a SMALL number of juice droplets is
+flicked off the peel — roughly TEN TO FIFTEEN countable beads in the whole frame, each with a
+tight contained highlight and NO flare, travelling a short distance and slowing to a stop near
+the lemon. A light flick of juice — NOT a splash, NOT a spray, NOT a burst: no sheets of water,
+no mist, no particle cloud. The lemon stays whole for this beat. Forward-only: the cuts never
+close and the lemon is never whole again.
+
+4.6-9.0 — the camera pulls back and rises, then keeps retreating. The SEVEN pieces — five
+slices and two end caps, seven and never more — twist apart into a spiral, each rotated against
+its neighbour so the lemon corkscrews open into an S-curve, cut faces turning toward the lens:
+translucent flesh, pulp, a few wet strands between them. The spiral falls away toward the lower
+left, gaps widening — exactly on the paths of #Video1.
+
+9.0-10.2 — the pieces shrink into the void and are gone; once gone they never return. The
+camera settles and what remains is the same absolute black that was there in frame one — an
+empty void, not a fade to black.
+
+HOLD FOR THE FULL TIMELINE
+#Video1 camera path, aspect and framing 1:1 — no crop, no zoom, no re-frame; where text and
+video disagree, the video wins.
+ONE lemon, ONE slicing event, SIX cuts, SEVEN pieces — never more of any; no knife or hand is
+visible; cuts never close, pieces never re-join.
+Pure #000000 behind everything, including one pixel outside the silhouette. No bloom, glow,
+flare or sparkle.
+NEARLY DRY: a couple of dozen countable droplets at most — no splash, spray, mist or sheet.
+One take. No text, no logos, no watermarks.
+
+SFX only: a low airy whoosh on the push-in, six wet slicing sounds landing as one sharp cut, a
+few scattered droplet ticks, juicy separation slides, then silence.
